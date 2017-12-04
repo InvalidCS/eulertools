@@ -1,0 +1,1 @@
+These are old copies of the files from before I updated my isprime function. I am saving them for speed comparison.
