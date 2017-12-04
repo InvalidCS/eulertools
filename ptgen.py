@@ -11,7 +11,7 @@ def nexttriple() -> tuple:
             a = p*q*2
             b = p**2 - q**2
             c = b + 2*q**2
-            yield [a,b,c]
+            yield (a,b,c)
         p += 1
 
 def nexttripleab() -> tuple:
